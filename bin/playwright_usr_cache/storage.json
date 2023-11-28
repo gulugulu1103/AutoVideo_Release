@@ -1,0 +1,57 @@
+{
+  "cookies": [
+    {
+      "name": "ttcid",
+      "value": "78c6066827464bfe9382cbe5d20fe68027",
+      "domain": "creator.douyin.com",
+      "path": "/",
+      "expires": 1730605129,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_tea_utm_cache_2906",
+      "value": "undefined",
+      "domain": ".creator.douyin.com",
+      "path": "/",
+      "expires": 1699673929,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_v_web_id",
+      "value": "lojhw336_x279hK1X_h4gu_4HZM_AN4O_dIzlv2YP8hAb",
+      "domain": "creator.douyin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://creator.douyin.com",
+      "localStorage": [
+        {
+          "name": "__tea_cache_tokens_2906",
+          "value": "{\"web_id\":\"7297446281965340201\",\"ssid\":\"415be25e-67a7-4f77-a11c-3ace4e0d59c6\",\"user_unique_id\":\"7297446281965340201\",\"timestamp\":1699069130106}"
+        },
+        {
+          "name": "_byted_param_sw",
+          "value": "cUEud4pCyNdpX3Qak9A="
+        },
+        {
+          "name": "ttcid",
+          "value": "78c6066827464bfe9382cbe5d20fe68027"
+        },
+        {
+          "name": "__tea_cache_first_2906",
+          "value": "1"
+        }
+      ]
+    }
+  ]
+}
